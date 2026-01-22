@@ -20,8 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     var clean = file
   .replace(/\.(png|jpg|jpeg)$/i, "")
-  .replace(/_/g, " ");   // 👈 underscore → space for display
-    var parts = clean.split(",");
+  var parts = clean.split(",");
 
     var namePricePart = parts[0].trim();
     var category = parts[1] ? parts[1].trim() : "Others";
@@ -217,3 +216,4 @@ document.addEventListener("DOMContentLoaded", function () {
   render();
 
 });
+
