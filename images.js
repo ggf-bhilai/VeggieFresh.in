@@ -133,4 +133,7 @@ const images = [
 "Mccain Super Wedges 400gm - Rs. 165.00, Frozen Veg Snacks.jpg",
 "Mccain Variety Pack 550gm - Rs. 180.00, Frozen Veg Snacks.jpg",
 "Mccain Veggie Burger Patty 360gm - Rs. 141.00, Frozen Veg Snacks.jpg",
+"Mccain French Fries 200gm - Rs. 59.00, Frozen Veg Snacks.jpg",
+"Mccain Smiles 175gm - Rs. 61.00, Frozen Veg Snacks.jpg",
 ];
+
