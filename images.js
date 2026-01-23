@@ -100,7 +100,7 @@ const images = [
 "McCain Potato Cheese Shotz 1 Kg - Rs. 500.00, Frozen Veg Snacks.jpg",
 "McCain Super Vege Burger Patty 1.2Kg - Rs. 250.00, Frozen Veg Snacks.jpg",
 "McCain Garlic Chilli Potato Pops 1.5Kg - Rs. 350.00, Frozen Veg Snacks.jpg",
-"McCain V Crispers 2Kg - Rs. 350.00, Frozen Veg Snacks.jpg",
+"McCain V Crispers 2Kg - Rs. 450.00, Frozen Veg Snacks.jpg",
 "McCain Aloo Tikki 1.5Kg - Rs. 250.00, Frozen Veg Snacks.jpg",
 "McCain Crinkle Cut Fries 2.5kg - Rs. 350.00, Frozen Veg Snacks.jpg",
 "McCain Masala Fries 1.5kg - Rs. 450.00, Frozen Veg Snacks.jpg",
@@ -135,5 +135,6 @@ const images = [
 "Mccain French Fries 200gm - Rs. 59.00, Frozen Veg Snacks.jpg",
 "Mccain Smiles 175gm - Rs. 61.00, Frozen Veg Snacks.jpg",
 ];
+
 
 
