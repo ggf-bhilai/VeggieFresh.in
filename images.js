@@ -35,7 +35,7 @@ const images = [
 "Finosta Spaghetti Pasta - Rs. 150.00, Pasta & Noodles.jpg",
 "Food Coast Mayo Lite 1 kg - Rs. 150.00, Sauce Ketchup and Mayonnaise.jpg",
 "Fresh 2 Go Ambient 8.5 Inch Plain Tortilla (RTC) 480gm (Pack of 10) - Rs. 75.00, Tortila.jpg",
-"Fresh 2 Go Ambient 10 Inch Plain Tortilla Wrap (RTC) 640gm (Pack of 10) - Rs. 105.00, Tortila, Bread, Paratha.jpg",
+"Fresh 2 Go Ambient 10 Inch Plain Tortilla Wrap (RTC) 640gm (Pack of 10) - Rs. 105.00, Tortila.jpg",
 "Frozen Basa Fillets - Rs. 2500.00, Frozen Fish.jpg",
 "Frozen Momos - Rs. 150.00, Momos.jpg",
 "GGF Burger Bun - Rs. 40.00, Bread.jpg",
@@ -160,3 +160,4 @@ const images = [
 "Godrej Yummiez Chicken Seekh Kabab 360g - Rs. 275.00, Frozen Non-Veg Snacks.jpg",
 "Veggie Fresh Frozen Green Peas 1kg - Rs. 180.00, Frozen Vegetables.jpg",
 ];
+
