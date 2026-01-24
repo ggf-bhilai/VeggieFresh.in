@@ -140,7 +140,7 @@ const images = [
 "Godrej Yummiez French Fries 1kg - Rs. 234, Frozen Veg Snacks.jpg",
 "Godrej Yummiez Cheese Corn Nuggets 400g - Rs. 234.00, Frozen Veg Snacks.jpg",
 "Godrej Yummiez Cheesy Pizza Finger 250g - Rs. 178, Frozen Veg Snacks.jpg",
-"Godrej Yummiez Cheesy Pizza Finger 400g - Rs. 234, Frozen Veg Snacks - Copy.jpg",
+"Godrej Yummiez Cheesy Pizza Finger 400g - Rs. 234, Frozen Veg Snacks.jpg",
 "Godrej Yummiez Veg Masala Nuggets 400g - Rs. 187.00, Frozen Veg Snacks.jpg",
 "Godrej Yummiez Veg Party Pack 600g - Rs. 323.00, Frozen Veg Snacks.jpg",
 "Godrej Yummiez Aloo Tikki 415g - Rs. 130.00, Frozen Veg Snacks.jpg",
@@ -161,4 +161,5 @@ const images = [
 "Godrej Yummiez Chicken Seekh Kabab 360g - Rs. 275.00, Frozen Non-Veg Snacks.jpg",
 "Veggie Fresh Frozen Green Peas 1kg - Rs. 180.00, Frozen Vegetables.jpg",
 ];
+
 
