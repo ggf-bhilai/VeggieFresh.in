@@ -631,5 +631,11 @@ button:hover {
   opacity: 1;
 }
 
+.card .title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 
 
