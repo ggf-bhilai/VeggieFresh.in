@@ -86,7 +86,6 @@ nav a {
 
 /* HERO IMAGE */
 .hero-image img {
-  background-image: url("Geetanjali_Veggie_Fresh_Logo.png"); /* 👈 IMAGE PATH */
   width: 100%;
   max-width: 320px;
   display: block;
@@ -631,5 +630,6 @@ button:hover {
 .icon-btn:hover .tooltip {
   opacity: 1;
 }
+
 
 
