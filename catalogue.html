@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Veggie Fresh Product Catalogue | Order HoReCa Products</title>
+
+<meta name="description"
+content="Wholesale HoReCa food products by Geetanjali Good Foods, Bhilai. Frozen vegetables, snacks, sauces & more. Call 9074964418">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="style.css">
+
+  <!-- jsPDF (optional) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+  <!-- IMPORTANT: load scripts AFTER DOM -->
+  <script src="images.js" defer></script>
+  <script src="script.js" defer></script>
+  
+</head>
+
+<body>
+<header class="header">
+  <div class="logo">
+    <a href="index.html">
+      <span class="brand-red">Veggie</span>
+      <span class="brand-green">Fresh</span>
+    </a>
+  </div>
+
+  <a class="whatsapp-btn"
+     href="https://wa.me/919074964418"
+     target="_blank">
+     WhatsApp Order
+  </a>
+</header>
+
+  <h1>VeggieFresh Product Catalogue</h1>
+
+  <!-- SEARCH + FILTER -->
+  <div class="top-controls">
+  <input id="searchBox" type="text" placeholder="Search product or category">
+  <select id="categoryFilter"></select>
+</div>
+
+
+
+  <!-- PRODUCT GRID -->
+  <div id="catalogGrid" class="catalog-grid"></div>
+
+  <!-- FLOATING CART PANEL -->
+  <div class="floating-cart">
+  <div>
+    🛒 <span id="cartQty">0</span> items  
+    <div id="cartValue">₹ 0.00</div>
+  </div>
+
+  <button id="copyOrder" class="icon-btn">
+  📋
+  <span class="tooltip">Click to Copy</span>
+</button>
+
+<button id="sendWhatsapp" class="icon-btn">
+  🟢
+  <span class="tooltip">Send on WhatsApp</span>
+</button>
+</div>
+
+</body>
+</html>
