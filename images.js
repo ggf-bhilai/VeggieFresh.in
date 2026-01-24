@@ -108,7 +108,7 @@ const images = [
 "Nature Smith Smoked Paprika Powder 400g - Rs. 200.00, Maslae.jpg",
 "NATURESMITH PAPRIKA POWDER 400g - Rs. 200.00, Maslae.jpg",
 "Nestle KitKat - Rs. 200.00, Chocolate.jpg",
-"Nestle Maggi - Rs. 14.00, Noodles.jpg",
+"Nestle Maggi - Rs. 14.00, Pasta & Noodles.jpg",
 "Nestle Munch Crunchilicious Milk Chocolate 48Pc Box Pack 450 Gram - Rs. 450.00, Chocolate.jpg",
 "Noriko Rice Vinegar 620ml - Rs. 150.00, Japanese Thai & Oriental.jpg",
 "Noriko Roasted Nori (Seaweed) 140gm (Pack of 50) - Rs. 700.00, Japanese Thai & Oriental.jpg",
@@ -157,6 +157,7 @@ const images = [
 "Godrej Yummiez Chicken Seekh Kabab 360g - Rs. 275.00, Frozen Non-Veg Snacks.jpg",
 "Veggie Fresh Frozen Green Peas 1kg - Rs. 180.00, Frozen Vegetables.jpg",
 ];
+
 
 
 
