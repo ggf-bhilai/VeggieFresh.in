@@ -113,9 +113,8 @@ const images = [
 "Noriko Rice Vinegar 620ml - Rs. 150.00, Japanese Thai & Oriental.jpg",
 "Noriko Roasted Nori (Seaweed) 140gm (Pack of 50) - Rs. 700.00, Japanese Thai & Oriental.jpg",
 "Noriko Wasabi Paste 43gm - Rs. 75.00, Japanese Thai & Oriental.jpg",
-"Puliro American Bread Crumb - Rs. 200.00, Bakery.jpg",
-"Puliro Bread Crumb - Rs. 200.00, Bakery.jpg",
-"Puliro Panko Bread Crumb - Rs. 200.00, Bakery.jpg",
+"Finosta Puliro American Bread Crumb - Rs. 200.00, Bakery.jpg",
+"Finosta Puliro Panko Bread Crumb - Rs. 200.00, Bakery.jpg",
 "Springburst Aromatic Mix 500gm - Rs. 200.00, Masale.jpg",
 "Springburst Lime Seasoning 500gm - Rs. 200.00, Masale.jpg",
 "Sriraja Panich Chilli Sauce 570gm - Rs. 100.00, Sauce Ketchup and Mayonnaise.jpg",
@@ -285,3 +284,4 @@ const images = [
 "Nutralite Mayonnaise Lite 1kg - Rs. 150.00, Sauce Ketchup and Mayonnaise.jpg",
 "Nutralite Professional Regular Mayo 1kg - Rs. 150.00, Sauce Ketchup and Mayonnaise.jpg",
 ];
+
