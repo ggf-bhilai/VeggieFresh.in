@@ -639,14 +639,14 @@ button:hover {
 }
 
 .brand-hero {
-  padding: 40px 20px;
+  padding: 20px 20px;
   background: #f7fff7;
   text-align: center;
 }
 
-.brand-hero h2 {
+.brand-hero h1 {
   font-size: 26px;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 
 .brand-grid {
@@ -683,6 +683,7 @@ button:hover {
   font-weight: 600;
   font-size: 14px;
 }
+
 
 
 
